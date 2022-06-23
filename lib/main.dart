@@ -69,8 +69,6 @@ class _MyHomePageState extends State<MyHomePage> {
                           child: ListTile(
                             leading: Image.network(
                               data.thumbnail,
-                              fit: BoxFit.cover,
-                              width: 100,
                             ),
                             title: Text(
                               data.title,
