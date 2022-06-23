@@ -1,16 +1,8 @@
-# toko_dummy
+# Toko Dummy
+Tugas Mobile Programming | Dwija Saptahadi | 12201033
 
-A new Flutter project.
+Projek Individual (Nilai Tugas, UTS dan UAS): 
+Buat video tutorial mengenai pembuatan aplikasi mobile dengan flutter dengan mengambil data produk dari https://dummyjson.com/products 
+Tampilannya dibuat seperti toko online.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![dummytoko](https://user-images.githubusercontent.com/1516950/175386945-b6026277-8c11-41b2-aa00-cf8fbfe3fd4f.jpeg)
