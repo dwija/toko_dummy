@@ -7,7 +7,7 @@ Tampilannya dibuat seperti toko online.
 
 ![dummytoko](https://user-images.githubusercontent.com/1516950/175386945-b6026277-8c11-41b2-aa00-cf8fbfe3fd4f.jpeg)
 
-Video Tutorial yang dibuat: https://drive.google.com/file/d/1UnGKYlmBAy5yaiGm2sRDdK3n6Qsa_mcI/view
+Video Tutorial yang dibuat: https://www.youtube.com/watch?v=IIzwL-R1RGg
 (Mohon maaf mic yang digunakan untuk merekam video ini sedang bermasalah sehingga kualitas audio yang dihasilkan sangat buruk sekali)
 
 Referensi:
